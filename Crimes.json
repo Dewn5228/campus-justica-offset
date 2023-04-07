@@ -1,0 +1,716 @@
+[
+  {
+    "name": "ABANDONO DE VEÍCULO",
+    "price": "4,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "ALTERAÇÕES ESTÉTICAS ILEGAIS",
+    "price": "11,250.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "ANDAR SEM CAPACETE (aplicado a motociclos e buggy)",
+    "price": "1,125.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "CONDUÇÃO IMPRUDENTE",
+    "price": "5,250.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "CONDUZIR S/ LUZES",
+    "price": "1,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "CONDUZIR SEM HABILITAÇÃO",
+    "price": "8,250.00€",
+    "jailtime": "2"
+  },
+  {
+    "name": "CORRIDAS ILEGAIS",
+    "price": "10,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "DESTRUIÇÃO DE PATRIMÓNIO PÚBLICO",
+    "price": "1,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "DIRIGIR EM ESTADO DE EMBRIAGUEZ",
+    "price": "2,250.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "DIRIGIR SOB INFLUÊNCIA DE SUBSTÂNCIAS PSICOTRÓPICAS",
+    "price": "3,000.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "ESTACIONAR EM LOCAL PROIBIDO",
+    "price": "1,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "EXCESSO DE OCUPANTES",
+    "price": "3,750.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "EXCESSO DE VELOCIDADE",
+    "price": "2,250.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "FALTA DE DOCUMENTOS",
+    "price": "6,000.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "FUGA APÓS CAUSAR UM ACIDENTE",
+    "price": "7,500.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "MÁ DISTRIBUIÇÃO DE LOTAÇÃO NO VEÍCULO",
+    "price": "4,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "MODIFICAÇÕES ILEGAIS DE PERFORMANCE",
+    "price": "11,250.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "NÃO CEDER PASSAGEM A UM VEÍCULO DE EMERGÊNCIA",
+    "price": "1,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "ULTRAPASSAR SINAL VERMELHO/STOP",
+    "price": "1,200.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "USO DE VEÍCULO FURTADO",
+    "price": "7,500.00€",
+    "jailtime": "2"
+  },
+  {
+    "name": "UTILIZAÇÃO DE EQUIPAMENTOS ELETRÓNICOS DURANTE A CONDUÇÃO",
+    "price": "750.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "VEICULO EM ESTADO NÃO VIÁVEL",
+    "price": "2,250.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "VEÍCULO SEM MATRÍCULA",
+    "price": "11,250.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "ASSALTO A CASA",
+    "price": "30,000.00€",
+    "jailtime": "7"
+  },
+  {
+    "name": "ASSALTO  A JOALHARIA",
+    "price": "75,000.00€",
+    "jailtime": "20"
+  },
+  {
+    "name": "ASSALTO A BANCO",
+    "price": "150,000.00€",
+    "jailtime": "30"
+  },
+  {
+    "name": "ASSALTO A LOJA",
+    "price": "52,500.00€",
+    "jailtime": "15"
+  },
+  {
+    "name": "ASSALTO A LOJA DE ARMAS",
+    "price": "105,000.00€",
+    "jailtime": "25"
+  },
+  {
+    "name": "FURTO",
+    "price": "15,000.00€",
+    "jailtime": "4"
+  },
+  {
+    "name": "POSSE DE ITENS ROUBADOS",
+    "price": "10,500.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "ROUBO",
+    "price": "22,500.00€",
+    "jailtime": "7"
+  },
+  {
+    "name": "ROUBO DE ARMAMENTO DO ESTADO",
+    "price": "60,000.00€",
+    "jailtime": "12"
+  },
+  {
+    "name": "TENTATIVA DE ASALTO A CASA",
+    "price": "15,000.00€",
+    "jailtime": "4"
+  },
+  {
+    "name": "TENTATIVA DE ASSALTO A BANCO",
+    "price": "120,000.00€",
+    "jailtime": "15"
+  },
+  {
+    "name": "TENTATIVA DE ASSALTO A JOALHARIA",
+    "price": "60,000.00€",
+    "jailtime": "10"
+  },
+  {
+    "name": "TENTATIVA DE ASSALTO A LOJA",
+    "price": "45,000.00€",
+    "jailtime": "7"
+  },
+  {
+    "name": "TENTATIVA DE ASSALTO A LOJA DE ARMAS",
+    "price": "30,000.00€",
+    "jailtime": "12"
+  },
+  {
+    "name": "TENTATIVA DE FURTO",
+    "price": "7,500.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "TENTATIVA DE ROUBO",
+    "price": "12,000.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "TENTATIVA DE ROUBO DE ARMAMENTO DO ESTADO",
+    "price": "37,500.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "VENDA DE ITENS ROUBADOS",
+    "price": "15,000.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "ABUSO DE PODER",
+    "price": "0",
+    "jailtime": "0"
+  },
+  {
+    "name": "BURLA",
+    "price": "12,000.00€",
+    "jailtime": "4"
+  },
+  {
+    "name": "DESOBEDIÊNCIA",
+    "price": "15,000.00€",
+    "jailtime": "2"
+  },
+  {
+    "name": "AMEAÇA",
+    "price": "45,000.00€",
+    "jailtime": "6"
+  },
+  {
+    "name": "ASSÉDIO",
+    "price": "15,000.00€",
+    "jailtime": "4"
+  },
+  {
+    "name": "DESRESPEITO EM TRIBUNAL",
+    "price": "20,000.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "DESRESPEITO AO TRIBUNAL",
+    "price": "15,000.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "DIFAMAÇÃO",
+    "price": "36,000.00€",
+    "jailtime": "2"
+  },
+  {
+    "name": "ESCAPAR A CUSTÓDIA",
+    "price": "20,000.00€",
+    "jailtime": "6"
+  },
+  {
+    "name": "EXPOSIÇÃO INDECENTE",
+    "price": "4,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "FALSA IDENTIFICAÇÃO",
+    "price": "22,500.00€",
+    "jailtime": "2"
+  },
+  {
+    "name": "FALSA REPRESENTAÇÃO",
+    "price": "22,500.00€",
+    "jailtime": "2"
+  },
+  {
+    "name": "FALSA REPRESENTAÇÃO DE UM FUNCIONÁRIO PÚBLICO",
+    "price": "45,000.00€",
+    "jailtime": "4"
+  },
+  {
+    "name": "FALTA DE EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL",
+    "price": "12,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "FUGA AO FISCO",
+    "price": "67,500.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "FUGA ÀS AUTORIDADES",
+    "price": "25,000.00€",
+    "jailtime": "8"
+  },
+  {
+    "name": "OBSTRUÇÃO À IDENTIDADE",
+    "price": "7,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "OBSTRUÇÃO À JUSTIÇA",
+    "price": "12,000.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "OMISSÃO DE AUXÍLIO",
+    "price": "11,250.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "ORGANIZAÇÃO DE EVENTOS ILEGAIS",
+    "price": "37,500.00€",
+    "jailtime": "4"
+  },
+  {
+    "name": "PERJÚRIO",
+    "price": "15,000.00€",
+    "jailtime": "2"
+  },
+  {
+    "name": "POLUIÇÃO SONORA",
+    "price": "1,125.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "POSSE DE IDENTIFICAÇÃO DE OUTRÉM",
+    "price": "15,000.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "PSEUDOCÍDIO",
+    "price": "12,000.00€",
+    "jailtime": "4"
+  },
+  {
+    "name": "RESISTÊNCIA À ORDEM DE PRISÃO",
+    "price": "15,000.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "RESPONSABILIDADE DANOSA",
+    "price": "0€",
+    "jailtime": "0"
+  },
+  {
+    "name": "SUBORNO",
+    "price": "22,500.00€",
+    "jailtime": "7"
+  },
+  {
+    "name": "TENTATIVA DE FUGA ÀS AUTORIDADES",
+    "price": "30,000.00€",
+    "jailtime": "4"
+  },
+  {
+    "name": "TENTATIVA DE SUBORNO",
+    "price": "15,000.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "VANDALISMO",
+    "price": "0€",
+    "jailtime": "0"
+  },
+  {
+    "name": "VIOLAÇÃO DE REGRA DE SEGURANÇA",
+    "price": "150,000.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "VIOLAÇÃO DO SIGILO PROFISSIONAL",
+    "price": "0€",
+    "jailtime": "0"
+  },
+  {
+    "name": "VIOLÊNCIA DOMÉSTICA",
+    "price": "30,000.00€",
+    "jailtime": "7"
+  },
+  {
+    "name": "ABUSAR DA LINHA DE EMERGÊNCIA",
+    "price": "15,000.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "CRIAÇÃO DE LOCAL PARA FINS DE TORTURA",
+    "price": "60,000.00€",
+    "jailtime": "9"
+  },
+  {
+    "name": "DEITAR FORA UMA ARMA DE FOGO",
+    "price": "21,000.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "DESACATOS",
+    "price": "7,500.00€",
+    "jailtime": "2"
+  },
+  {
+    "name": "DESRESPEITO À AUTORIDADE",
+    "price": "22,500.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "EXTORSÃO",
+    "price": "22,500.00€",
+    "jailtime": "4"
+  },
+  {
+    "name": "INJÚRIA",
+    "price": "10,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "INVASÃO DE UMA PROPRIEDADE PRIVADA",
+    "price": "30,000.00€",
+    "jailtime": "6"
+  },
+  {
+    "name": "INVASÃO DE UMA PROPRIEDADE PRIVADA ESTATAL",
+    "price": "45,000.00€",
+    "jailtime": "6"
+  },
+  {
+    "name": "NEGLIGÊNCIA",
+    "price": "30,000.00€"
+  },
+  {
+    "name": "OFENSA À INTEGRIDADE FISICA GRAVE",
+    "price": "15,000.00€",
+    "jailtime": "6"
+  },
+  {
+    "name": "OFENSA À INTEGRIDADE FISICA SIMPLES",
+    "price": "10,500.00€",
+    "jailtime": "6"
+  },
+  {
+    "name": "SEQUESTRO",
+    "price": "30,000.00€",
+    "jailtime": "8"
+  },
+  {
+    "name": "TORTURA",
+    "price": "90,000.00€",
+    "jailtime": "10"
+  },
+  {
+    "name": "UTILIZAÇÃO ABUSIVA DOS SERVIÇOS TELEFÓNICOS ESTATAIS",
+    "price": "25,000.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "ASSALTO AO PORTA-AVIÕES",
+    "price": "400,000.00€",
+    "jailtime": "30"
+  },
+  {
+    "name": "ATIVIDADE TERRORISTAS",
+    "price": "200,000.00€",
+    "jailtime": "20"
+  },
+  {
+    "name": "COMPRA DE ARMAS",
+    "price": "67,500.00€",
+    "jailtime": "13"
+  },
+  {
+    "name": "COMPRA DE LICENÇAS",
+    "price": "5,625.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "CORRUPÇÃO",
+    "price": "0€",
+    "jailtime": "0"
+  },
+  {
+    "name": "CÚMPLICE",
+    "price": "0€",
+    "jailtime": "0"
+  },
+  {
+    "name": "EXIBIÇÃO DE UMA ARMA BRANCA",
+    "price": "11,250.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "EXIBIÇÃO DE UMA ARMA DE FOGO EM PÚBLICO",
+    "price": "45,000.00€",
+    "jailtime": "7"
+  },
+  {
+    "name": "FABRICO ILEGAL DE ARMAS",
+    "price": "112,500.00€",
+    "jailtime": "15"
+  },
+  {
+    "name": "HOMICÍDIO",
+    "price": "67,500.00€",
+    "jailtime": "15"
+  },
+  {
+    "name": "HOMICÍDIO POR NEGLIGÊNCIA",
+    "price": "45,000.00€",
+    "jailtime": "12"
+  },
+  {
+    "name": "HOMICÍDIO QUALIFICADO",
+    "price": "100,000.00€",
+    "jailtime": "17"
+  },
+  {
+    "name": "INCITAÇÃO AO ÓDIO",
+    "price": "22,500.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "LAVAGEM DE DINHEIRO",
+    "price": "150,000.00€",
+    "jailtime": "15"
+  },
+  {
+    "name": "MINERAÇÃO ILEGAL",
+    "price": "60,000.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "ORGANIZAÇÃO CRIMINOSA",
+    "price": "90,000.00€",
+    "jailtime": "12"
+  },
+  {
+    "name": "POSSE DE ACESSÓRIOS PARA ARMA",
+    "price": "45,000.00€",
+    "jailtime": "6"
+  },
+  {
+    "name": "POSSE DE ARMA BRANCA S/PORTE",
+    "price": "15,000.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "POSSE DE COLETES",
+    "price": "45,000.00€",
+    "jailtime": "6"
+  },
+  {
+    "name": "POSSE DE DINHEIRO NÃO DECLARADO",
+    "price": "0€",
+    "jailtime": "30"
+  },
+  {
+    "name": "POSSE DE MUNIÇÃO",
+    "price": "9,000.00€",
+    "jailtime": "6"
+  },
+  {
+    "name": "POSSE DE UMA ARMA DE FOGO ILEGAL DE BAIXO CALIBRE",
+    "price": "45,000.00€",
+    "jailtime": "12"
+  },
+  {
+    "name": "POSSE DE UMA ARMA DE FOGO ILEGAL DE MÉDIO CALIBRE",
+    "price": "70,000.00€",
+    "jailtime": "15"
+  },
+  {
+    "name": "POSSE DE UMA ARMA DE FOGO ILEGAL DE ALTO CALIBRE",
+    "price": "120,000.00€",
+    "jailtime": "17"
+  },
+  {
+    "name": "POSSE DE UMA ARMA DE FOGO S/PORTE",
+    "price": "30,000.00€",
+    "jailtime": "10"
+  },
+  {
+    "name": "RACISMO E DISCRIMINAÇÃO",
+    "price": "0€",
+    "jailtime": "0"
+  },
+  {
+    "name": "TENTATIVA DE HOMICÍDIO",
+    "price": "75,000.00€",
+    "jailtime": "10"
+  },
+  {
+    "name": "TRÁFICO DE ARMAS",
+    "price": "0€",
+    "jailtime": "0"
+  },
+  {
+    "name": "TRÁFICO DE PARTES DE ARMAMENTO",
+    "price": "105,000.00€",
+    "jailtime": "13"
+  },
+  {
+    "name": "VENDA DE ACESSÓRIOS PARA ARMA",
+    "price": "60,000.00€",
+    "jailtime": "7"
+  },
+  {
+    "name": "VENDA DE ARMAS",
+    "price": "120,000.00€",
+    "jailtime": "11"
+  },
+  {
+    "name": "VENDA DE COLETES",
+    "price": "36,000.00€",
+    "jailtime": "10"
+  },
+  {
+    "name": "VENDA DE LICENÇAS",
+    "price": "15,000.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "ATIVIDADE ILEGAL NUMA EMPRESA",
+    "price": "150,000.00€",
+    "jailtime": "10"
+  },
+  {
+    "name": "CAÇA SEM PORTE",
+    "price": "30,000.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "CAÇAR FORA DO PERÍMETRO LEGAL",
+    "price": "10,000.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "CAÇA ILEGAL",
+    "price": "15,000.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "COMPRA DE FERRAMENTAS DE ROUBO",
+    "price": "75,000.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "CRUELDADE ANIMAL",
+    "price": "30,000.00€",
+    "jailtime": "4"
+  },
+  {
+    "name": "FABRICAÇÃO DE DROGA",
+    "price": "75,000.00€",
+    "jailtime": "7"
+  },
+  {
+    "name": "FABRICO FERRAMENTAS DE ROUBO",
+    "price": "22,500.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "PESCA ILEGAL",
+    "price": "30,000.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "POSSE DE MATÉRIA PRIMA EM GRANDES QUANTIDADES PARA FINS ILEGAIS",
+    "price": "30,000.00€",
+    "jailtime": "2"
+  },
+  {
+    "name": "POSSE DE BARRAS DE OURO",
+    "price": "19,500.00€",
+    "jailtime": "6"
+  },
+  {
+    "name": "POSSE DE DROGA",
+    "price": "22,500.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "POSSE DE FERRAMENTAS DE ROUBO",
+    "price": "30,000.00€",
+    "jailtime": "3"
+  },
+  {
+    "name": "POSSE DE ITENS DE PESCA ILEGAL",
+    "price": "7,500.00€",
+    "jailtime": "0"
+  },
+  {
+    "name": "POSSE DE ITENS ILEGAIS",
+    "price": "15,000.00€",
+    "jailtime": "5"
+  },
+  {
+    "name": "TRÁFICO DE DROGA",
+    "price": "0€",
+    "jailtime": "0"
+  },
+  {
+    "name": "VENDA DE BARRAS DE OURO",
+    "price": "15,000.00€",
+    "jailtime": "6"
+  },
+  {
+    "name": "VENDA DE FERRAMENTAS DE ROUBO",
+    "price": "45,000.00€",
+    "jailtime": "4"
+  },
+  {
+    "name": "VENDA DE ITENS DE PESCA ILEGAL",
+    "price": "15,000.00€",
+    "jailtime": "2"
+  },
+  {
+    "name": "VENDA DE ITENS ILEGAIS",
+    "price": "30,000.00€",
+    "jailtime": "7"
+  },
+  {
+    "name": "VENDA DE LOCAIS ILEGAIS",
+    "price": "15,000.00€",
+    "jailtime": "2"
+  }
+]
